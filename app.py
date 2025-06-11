@@ -1,3 +1,5 @@
+print("Here are your recipes:")
+
 import os
 
 recipe_folder = "recipes"
